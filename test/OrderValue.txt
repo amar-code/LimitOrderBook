@@ -1,0 +1,12 @@
+order 1001 buy 100 12.30
+order 1002 sell 100 12.20
+order 1003 buy 200 12.40
+order 1004 buy 300 12.15
+cancel 1003
+order 1005 buy 300 12.50
+order 1006 buy 300 17.15
+order 1007 buy 300 19.15
+order 1008 buy 300 20.15
+cancel 1005
+cancel 1007
+amend 1008 100
